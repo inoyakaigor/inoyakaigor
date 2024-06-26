@@ -1,6 +1,6 @@
 👋 Hi, I’m @inoyakaigor
 
-👀 I’m developer from Oriol🦅 in Yerevan🦁🇦🇲 focused on Frontend and Team management
+👀 I’m developer from Oriol🦅 in Yerevan🦁🇦🇲 focused on frontend and team management
 
 <!---
 inoyakaigor/inoyakaigor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
